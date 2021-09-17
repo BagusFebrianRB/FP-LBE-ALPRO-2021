@@ -291,6 +291,12 @@ footer{
 }
 
 @media (max-width: 768px){
+    .banner video{
+        height: 70%;
+    }
+    .banner .overlay{
+        height: 70%;
+    }
     .banner .intro{
         padding: 100px 50px;
     }
